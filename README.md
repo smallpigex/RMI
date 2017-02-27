@@ -10,4 +10,4 @@
 - 缺點
     - 僅JAVA
 - 實作
-    - Client端透過Hi物件的sayHi方法，來呼叫Server端的HiImp
+    - Client端透過Stubs物件Hi的sayHi方法，來呼叫Server端的HiImp
