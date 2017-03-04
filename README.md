@@ -1,4 +1,4 @@
-# RMI練習
+# RMI範例
 ### RMI 
     基於Client Server架構，並採用stubs和skeletons來進行遠程物件的通訊
     ● stubs提供remote object的介面給Client端呼叫
@@ -10,4 +10,4 @@
 - 缺點
     - 僅JAVA
 - 實作
-    - Client端透過Stubs物件Hi的sayHi方法，來呼叫Server端的HiImp
+    - Client端透過Stubs物件Hi的sayHi方法，來呼叫Server端的HiIm
