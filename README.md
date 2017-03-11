@@ -1,4 +1,5 @@
-# 讀書會RMI範例
+# MOMO讀書會
+##RMI範例
 ### RMI 
     基於Client Server架構，並採用stubs和skeletons來進行遠程物件的通訊
     ● stubs提供remote object的介面給Client端呼叫
